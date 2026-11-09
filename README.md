@@ -1,6 +1,6 @@
 # scikit-learn Cookbook & Machine Learning Handbook (Edisi Indonesia)
 
-**Nama Praktikan:** Aryo Zaki Abdillah  
+**Nama:** Aryo Zaki Abdillah  
 **NIM:** 101032300060  
 **Kelas:** TK47-02  
 **Mata Kuliah:** Machine Learning / Pembelajaran Mesin  
